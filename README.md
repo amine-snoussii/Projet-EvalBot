@@ -2,7 +2,7 @@
 
 Projet réalisé en binôme dans le cadre du module **Programmation et Systèmes à base de Microprocesseurs** à l'ESIEE Paris (Novembre 2025).
 
-![Demo Patrouille-Bot](./VidoEvalBot-ezgif.com-optimize.gif)
+![Demo Patrouille-Bot](./VidoEvalBOT-ezgif.com-optimize.gif)
 
 ## 📋 Description
 
